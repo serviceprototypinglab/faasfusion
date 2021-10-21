@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-fusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plugin.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.zhaw.ch:fusion/babel-plugin-fusion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "js-yaml": "^4.0.0"
+  }
+}
